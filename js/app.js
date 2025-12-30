@@ -2,7 +2,7 @@
 // PRODUCTOS
 // =======================
 const productos = [
-  { id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 3000, imagen: "../assets/img/andina_p.jpg" },
+  { id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 3000, imagen: "assets/img/andina_p.jpg" },
   { id: 2, nombre: "Six pack- Aguila light 269ml + hielo", precio: 3000, imagen: "../assets/img/light-p.jpg" },
   { id: 3, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 3000, imagen: "../assets/img/aguila-p.jpg" },
   { id: 4, nombre: "Six pack- Coronita 210ml + hielo", precio: 3000, imagen: "../assets/img/coronita-p.jpg" },
@@ -138,7 +138,7 @@ btnWhatsapp.addEventListener("click", () => {
   mensaje += `%0A*Pago:* ${metodoPago}`;
 
   const telefono = "3184907915"; // TU NÚMERO
-  const url = `https://wa.me/${telefono}?text=${encodeURIComponent(mensaje)}`;
+  const url = `https://wa.me/${telefono}?text=${mensaje}`;
 
 
   window.open(url, "_blank");
@@ -153,4 +153,5 @@ function formatearPrecio(valor) {
 
 // INICIAR
 mostrarProductos();
+
 
