@@ -1,0 +1,190 @@
+/* RESET BÁSICO */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* BODY */
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+  padding: 20px;
+}
+
+/* HEADER */
+header {
+  background-color: #222;
+  color: white;
+  padding: 25px;
+  text-align: center;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+/* tamaño del texto */
+header h1 {
+  font-size: 55px;       
+  font-weight: bold;
+  font-family:'Cinzel', serif;
+  letter-spacing: 2px;
+  margin-bottom: -5px;
+}
+
+header .descripcion {
+  font-size: 18px;
+  opacity: 0.85;
+  font-family:'Cinzel', serif;
+  margin-bottom: 10px;
+}
+header .subtitulo {
+  font-size: 24px;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+  color:#d4af37;
+  font-family:'Cinzel', serif;
+  margin-bottom: 0px;
+}
+
+/* CONTENEDOR */
+.contenedor {
+  max-width: 1100px;
+  margin: auto;
+}
+
+/* SECCIONES */
+section {
+  margin-bottom: 30px;
+}
+
+/* PRODUCTOS GRID */
+#lista-productos {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 20px;
+}
+
+/* TARJETA PRODUCTO */
+.producto {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 12px;
+  text-align: center;
+  background: #fff;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* EFECTO HOVER 🔥 */
+.producto:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
+}
+
+/* IMAGEN */
+.producto img {
+  width: 100%;
+  max-height: 130px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+/* CONTROLES + / - */
+.controles {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.controles button {
+  padding: 6px 12px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  background: #222;
+  color: white;
+  border-radius: 6px;
+  transition: 0.2s;
+}
+
+.controles button:hover {
+  background: #444;
+}
+
+/* CARRITO */
+#carrito {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+}
+
+/* FORMULARIO */
+input {
+  display: block;
+  margin: 8px 0;
+  padding: 10px;
+  width: 100%;
+  max-width: 350px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+/* BOTÓN WHATSAPP */
+#btn-whatsapp {
+  margin-top: 15px;
+  padding: 12px;
+  width: 100%;
+  max-width: 350px;
+  border: none;
+  border-radius: 8px;
+  background: #25d366;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#btn-whatsapp:hover {
+  background: #1ebe5b;
+}
+
+/* ==========================
+   AJUSTES PARA CELULAR
+========================== */
+@media (max-width: 768px) {
+
+  header h1 {
+    font-size: 32px; /* antes era muy grande */
+  }
+
+  header p {
+    font-size: 15px;
+  }
+
+  .contenedor {
+    padding: 10px;
+  }
+
+  #lista-productos {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .producto {
+    padding: 12px;
+  }
+
+  .producto img {
+    max-height: 110px;
+  }
+
+  #btn-whatsapp {
+    font-size: 15px;
+    padding: 14px;
+  }
+}
+
+
+
+
+

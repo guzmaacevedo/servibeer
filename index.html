@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ServiBeer 🍺</title>
+  <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>🍺ServiBeer🍺</h1>
+    <p class= "subtitulo">El correo de la rumba</p>
+    <p class="descripcion"><br>Cerveza y licores a domicilio, servicio 24horas</p>
+  </header>
+
+  <main>
+    <section id="productos">
+      <h2>Productos</h2>
+      <div id="lista-productos"></div>
+    </section>
+
+    <section id="carrito">
+        <h2>🛒 Tu pedido</h2>
+        <div id="lista-carrito"></div>
+
+        <p id="total">Total: $0</p>
+
+        <div class="formulario">
+            <input type="text" id="nombre" placeholder="Tu nombre">
+            <input type="text" id="direccion" placeholder="Dirección de entrega">
+            <input type="text" id="referencia" placeholder="Referencia (opcional)">          
+        </div>
+
+        <div class="metodo-pago">
+            <p><strong>Método de pago:</strong></p>
+
+            <label>
+                <input type="radio" name="pago" value="Efectivo" checked>
+                Efectivo
+            </label>
+
+            <label>
+                <input type="radio" name="pago" value="Transferencia">
+                Transferencia
+            </label>
+        </div>
+        <button id="btn-whatsapp">Enviar pedido por WhatsApp</button>
+    </section>
+
+  </main>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>
+
