@@ -74,6 +74,9 @@ function quitar(id) {
 
   if (item.cantidad <= 0) {
     carrito = carrito.filter(p => p.id !== id);
+
+    const cantidadSpan = document.getElementById(`cantidad-${id}`);
+    if (cantidadSpan) cantidadSpan.textContent = 0;
   }
 
   actualizarVista();
@@ -153,4 +156,3 @@ function formatearPrecio(valor) {
 
 // INICIAR
 mostrarProductos();
-
