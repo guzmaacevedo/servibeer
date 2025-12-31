@@ -2,14 +2,14 @@
 // PRODUCTOS
 // =======================
 const productos = [
-  { id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 12500, imagen: "assets/img/andina_p.jpg" },
+  //{ id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 12500, imagen: "assets/img/andina_p.jpg" },//
   { id: 2, nombre: "Six pack- Aguila light 269ml + hielo", precio: 13999, imagen: "assets/img/light-p.jpg" },
-  { id: 3, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 15999, imagen: "assets/img/aguila-p.jpg" },
+  //{ id: 3, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 15999, imagen: "assets/img/aguila-p.jpg" },//
   { id: 4, nombre: "Six pack- Coronita 210ml + hielo", precio: 22500, imagen: "assets/img/coronita-p.jpg" },
   { id: 5, nombre: "Six pack- Stella Artois 330ml + hielo", precio: 26499, imagen: "assets/img/stella-p.jpeg" },
   { id: 6, nombre: "Six pack- Heineken 250ml + hielo", precio: 21500, imagen: "assets/img/heineken.jpeg" },
   //{ id: 7, nombre: "Six pack- Costeña Bacana 330ml + hielo", precio: 18200, imagen: "assets/img/costeña.png" },//
-  { id: 8, nombre: "Whisky Buchanans Deluxe 12años + hielo + servicio", precio: 175000, imagen: "assets/img/buchana.png" }
+  //{ id: 8, nombre: "Whisky Buchanans Deluxe 12años + hielo + servicio", precio: 175000, imagen: "assets/img/buchana.png" }//
 
   //{ id: 8, nombre: "Six pack- Stella lata 330ml + hielo", precio: 3500, imagen: "assets/img/stella-l.jpeg" },//
 ];
@@ -140,7 +140,7 @@ btnWhatsapp.addEventListener("click", () => {
   mensaje += `%0A*Total (sin domicilio):* $${formatearPrecio(total)}`;
   mensaje += `%0A*Pago:* ${metodoPago}`;
 
-  const telefono = "3184907915"; // TU NÚMERO
+  const telefono = "3332278728"; // TU NÚMERO
   const url = `https://wa.me/${telefono}?text=${mensaje}`;
 
 
@@ -156,3 +156,4 @@ function formatearPrecio(valor) {
 
 // INICIAR
 mostrarProductos();
+
