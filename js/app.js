@@ -9,7 +9,8 @@ const productos = [
   { id: 5, nombre: "Six pack- Stella Artois 330ml + hielo", precio: 27800, imagen: "assets/img/stella-p.jpeg" },
   { id: 6, nombre: "Six pack- Heineken 250ml + hielo", precio: 21500, imagen: "assets/img/heineken.jpeg" },
   //{ id: 7, nombre: "Six pack- Costeña Bacana 330ml + hielo", precio: 18125, imagen: "assets/img/costeña.png" },//
-  { id: 8, nombre: "Whisky Buchanans Deluxe 12años + hielo + servicio", precio: 175000, imagen: "assets/img/buchana.png" }
+  { id: 8, nombre: "Whisky Buchanans Deluxe 12años + hielo + servicio", precio: 175000, imagen: "assets/img/buchana.png" },
+  { id: 9, nombre: "Six pack- Budweiser lata + hielo", precio: 18500, imagen: "assets/img/bud-p.png" },
 
   //{ id: 8, nombre: "Six pack- Stella lata 330ml + hielo", precio: 3500, imagen: "assets/img/stella-l.jpeg" },//
 ];
@@ -156,8 +157,3 @@ function formatearPrecio(valor) {
 
 // INICIAR
 mostrarProductos();
-
-
-
-
-
