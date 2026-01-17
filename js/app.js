@@ -15,11 +15,11 @@ const productos = [
   { id: 10, nombre: "Caja Costeñita + cava y hielo", precio: 81000, imagen: "assets/img/cava-cos.png" },
   { id: 11, nombre: "Caja Andina light 269ml + cava y hielo", precio: 47499, imagen: "assets/img/cava-and.png" },
   { id: 12, nombre: "Caja Aguila light 269ml + cava y hielo", precio: 52499, imagen: "assets/img/cava-lig.png" }
-  //{ id: 13, nombre: "Caja Aguila Original 269ml + cava y hielo", precio: 62499, imagen: "assets/img/cava-original.png" },
-  //{ id: 14, nombre: "Caja Coronita 210ml + cava y hielo", precio: 87499, imagen: "assets/img/cava-cor.png" },
+  { id: 13, nombre: "Caja Aguila Original 269ml + cava y hielo", precio: 62499, imagen: "assets/img/cava-original.png" },
+  { id: 14, nombre: "Caja Coronita 210ml + cava y hielo", precio: 87499, imagen: "assets/img/cava-cor.png" },
   //{ id: 15, nombre: "Caja Stella Artois 330ml + cava y hielo", precio: 108750, imagen: "assets/img/cava-ste.png" },
   //{ id: 16, nombre: "Caja Heineken 250ml + cava y hielo", precio: 83750, imagen: "assets/img/cava-hei.png" },
-  //{ id: 17, nombre: "Caja Budweiser lata + cava y hielo", precio: 71000, imagen: "assets/img/cava-bud.png" }
+  { id: 17, nombre: "Caja Budweiser lata + cava y hielo", precio: 71000, imagen: "assets/img/cava-bud.png" }
 
 ];
 
@@ -165,4 +165,5 @@ function formatearPrecio(valor) {
 
 // INICIAR
 mostrarProductos();
+
 
