@@ -4,7 +4,7 @@
 const productos = [
   //{ id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 12500, imagen: "assets/img/andina_p.jpg" },
   { id: 2, nombre: "Six pack- Aguila light 269ml + hielo", precio: 13450, imagen: "assets/img/light-p.jpg" },
-  { id: 3, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 16250, imagen: "assets/img/aguila-p.jpg" },
+  //{ id: 3, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 16250, imagen: "assets/img/aguila-p.jpg" },
   //{ id: 4, nombre: "Six pack- Coronita 210ml + hielo", precio: 22499, imagen: "assets/img/coronita-p.jpg" },
   //{ id: 5, nombre: "Six pack- Stella Artois 330ml + hielo", precio: 27799, imagen: "assets/img/stella-p.jpeg" },
   //{ id: 6, nombre: "Six pack- Heineken 250ml + hielo", precio: 21550, imagen: "assets/img/heineken.jpeg" },
@@ -15,7 +15,7 @@ const productos = [
   //{ id: 10, nombre: "Caja Costeñita + cava y hielo", precio: 81000, imagen: "assets/img/cava-cos.png" },
   //{ id: 11, nombre: "Caja Andina light 269ml + cava y hielo", precio: 47499, imagen: "assets/img/cava-and.png" },
   { id: 12, nombre: "Caja Aguila light 269ml + cava y hielo", precio: 51250, imagen: "assets/img/cava-lig.png" },
-  { id: 13, nombre: "Caja Aguila Original 269ml + cava y hielo", precio: 62499, imagen: "assets/img/cava-original.png" },
+  //{ id: 13, nombre: "Caja Aguila Original 269ml + cava y hielo", precio: 62499, imagen: "assets/img/cava-original.png" },
   //{ id: 14, nombre: "Caja Coronita 210ml + cava y hielo", precio: 87499, imagen: "assets/img/cava-cor.png" },
   //{ id: 15, nombre: "Caja Stella Artois 330ml + cava y hielo", precio: 108750, imagen: "assets/img/cava-ste.png" },
   //{ id: 16, nombre: "Caja Heineken 250ml + cava y hielo", precio: 83750, imagen: "assets/img/cava-hei.png" },
@@ -165,6 +165,7 @@ function formatearPrecio(valor) {
 
 // INICIAR
 mostrarProductos();
+
 
 
 
