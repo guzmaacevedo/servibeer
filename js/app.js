@@ -8,7 +8,7 @@ const productos = [
   { id: 4, nombre: "Six pack- Coronita 210ml + hielo", precio: 22499, imagen: "assets/img/coronita-p.jpg" },
   //{ id: 5, nombre: "Six pack- Stella Artois 330ml + hielo", precio: 27799, imagen: "assets/img/stella-p.jpeg" },
   //{ id: 6, nombre: "Six pack- Heineken 250ml + hielo", precio: 21550, imagen: "assets/img/heineken.jpeg" },
-  { id: 7, nombre: "Six pack- Costeña Bacana 330ml + hielo", precio: 19000, imagen: "assets/img/costeña.png" },
+  { id: 7, nombre: "Six pack- Costeña Bacana 330ml + hielo", precio: 19000, imagen: "assets/img/costena.png" },
   //{ id: 8, nombre: "Whisky Buchanans Deluxe 12años + hielo + servicio", precio: 175000, imagen: "assets/img/buchana.png" },
   { id: 9, nombre: "Six pack- Budweiser lata + hielo", precio: 16900, imagen: "assets/img/bud-p.png" },
   //{ id: , nombre: "Six pack- Stella lata 330ml + hielo", precio: 3500, imagen: "assets/img/stella-l.jpeg" },
@@ -165,6 +165,7 @@ function formatearPrecio(valor) {
 
 // INICIAR
 mostrarProductos();
+
 
 
 
