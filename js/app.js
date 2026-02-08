@@ -2,17 +2,17 @@
 // PRODUCTOS
 // =======================
 const productos = [
-  { id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 12500, imagen: "assets/img/andina_p.jpg" },
-  { id: 2, nombre: "Caja Andina light 269ml + servicio cava y hielo", precio: 47500, imagen: "assets/img/cava-and.png" },
+  //{ id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 12500, imagen: "assets/img/andina_p.jpg" },
+  //{ id: 2, nombre: "Caja Andina light 269ml + servicio cava y hielo", precio: 47500, imagen: "assets/img/cava-and.png" },
   
-  { id: 3, nombre: "Six pack- Aguila light 269ml + hielo", precio: 13200, imagen: "assets/img/light-p.jpg" },
-  { id: 4, nombre: "Caja Aguila light 269ml + servicio cava y hielo", precio: 50000, imagen: "assets/img/cava-lig.png" },
+  //{ id: 3, nombre: "Six pack- Aguila light 269ml + hielo", precio: 13200, imagen: "assets/img/light-p.jpg" },
+  //{ id: 4, nombre: "Caja Aguila light 269ml + servicio cava y hielo", precio: 50000, imagen: "assets/img/cava-lig.png" },
   
-  { id: 5, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 15700, imagen: "assets/img/aguila-p.jpg" },
-  { id: 6, nombre: "Caja Aguila Original 269ml + servicio cava y hielo", precio: 60000, imagen: "assets/img/cava-original.png" },
+  //{ id: 5, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 15700, imagen: "assets/img/aguila-p.jpg" },
+  //{ id: 6, nombre: "Caja Aguila Original 269ml + servicio cava y hielo", precio: 60000, imagen: "assets/img/cava-original.png" },
   
-  { id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22499, imagen: "assets/img/coronita-p.jpg" },
-  { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo", precio: 87500, imagen: "assets/img/cava-cor.png" },
+  //{ id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22499, imagen: "assets/img/coronita-p.jpg" },
+ // { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo", precio: 87500, imagen: "assets/img/cava-cor.png" },
   
   { id: 9, nombre: "Six pack- Budweiser lata + hielo", precio: 16900, imagen: "assets/img/bud-p.png" },
   { id: 10, nombre: "Caja Budweiser lata + servicio cava y hielo", precio: 64500, imagen: "assets/img/cava-bud.png" },
@@ -173,3 +173,4 @@ function formatearPrecio(valor) {
 
 // INICIAR
 mostrarProductos();
+
