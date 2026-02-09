@@ -2,6 +2,10 @@
 // PRODUCTOS
 // =======================
 const productos = [
+  
+  { id: 9, nombre: "Six pack- Budweiser lata + hielo (PROMO🔥)", precio: 16900, imagen: "assets/img/bud-p.png" },
+  { id: 10, nombre: "Caja Budweiser lata + servicio cava y hielo (PROMO🔥)", precio: 64500, imagen: "assets/img/cava-bud.png" },
+  
   //{ id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 12500, imagen: "assets/img/andina_p.jpg" },
   //{ id: 2, nombre: "Caja Andina light 269ml + servicio cava y hielo", precio: 47500, imagen: "assets/img/cava-and.png" },
   
@@ -13,10 +17,7 @@ const productos = [
   
   //{ id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22499, imagen: "assets/img/coronita-p.jpg" },
  // { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo", precio: 87500, imagen: "assets/img/cava-cor.png" },
-  
-  { id: 9, nombre: "Six pack- Budweiser lata + hielo", precio: 16900, imagen: "assets/img/bud-p.png" },
-  { id: 10, nombre: "Caja Budweiser lata + servicio cava y hielo", precio: 64500, imagen: "assets/img/cava-bud.png" },
-  
+   
   { id: 11, nombre: "Six pack- Costeña Bacana 330ml + hielo", precio: 19000, imagen: "assets/img/costena.png" }, 
   { id: 12, nombre: "Caja Costeña Bacana 330ml + servicio cava y hielo", precio: 73750, imagen: "assets/img/cava-bacana.png" },
 
@@ -173,4 +174,5 @@ function formatearPrecio(valor) {
 
 // INICIAR
 mostrarProductos();
+
 
