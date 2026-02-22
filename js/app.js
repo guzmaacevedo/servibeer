@@ -6,11 +6,11 @@ const productos = [
   //{ id: 9, nombre: "Six pack- Budweiser lata + hielo", precio: 16400, imagen: "assets/img/bud-p.png" },
   //{ id: 10, nombre: "Caja Budweiser lata + servicio cava y hielo", precio: 64200, imagen: "assets/img/cava-bud.png" },
   
-  //{ id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 12200, imagen: "assets/img/andina_p.jpg" },
-  //{ id: 2, nombre: "Caja Andina light 269ml + servicio cava y hielo", precio: 46700, imagen: "assets/img/cava-and.png" },
+  { id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 12200, imagen: "assets/img/andina_p.jpg" },
+  { id: 2, nombre: "Caja Andina light 269ml + servicio cava y hielo", precio: 46700, imagen: "assets/img/cava-and.png" },
   
-  //{ id: 3, nombre: "Six pack- Aguila light 269ml + hielo", precio: 12700, imagen: "assets/img/light-p.jpg" },
-  //{ id: 4, nombre: "Caja Aguila light 269ml + servicio cava y hielo", precio: 59200, imagen: "assets/img/cava-lig.png" },
+  { id: 3, nombre: "Six pack- Aguila light 269ml + hielo", precio: 12700, imagen: "assets/img/light-p.jpg" },
+  { id: 4, nombre: "Caja Aguila light 269ml + servicio cava y hielo", precio: 49200, imagen: "assets/img/cava-lig.png" },
   
   { id: 5, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 15200, imagen: "assets/img/aguila-p.jpg" },
   { id: 6, nombre: "Caja Aguila Original 269ml + servicio cava y hielo", precio: 59200, imagen: "assets/img/cava-original.png" },
@@ -174,6 +174,7 @@ function formatearPrecio(valor) {
 
 // INICIAR
 mostrarProductos();
+
 
 
 
