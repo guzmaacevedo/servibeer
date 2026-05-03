@@ -10,7 +10,7 @@ const productos = [
  // { id: 2, nombre: "Caja Andina light 269ml + servicio cava y hielo", precio: 46700, imagen: "assets/img/cava-and.png" },
   
   { id: 3, nombre: "Six pack- Aguila light 269ml + hielo", precio: 12500, imagen: "assets/img/light-p.jpg" },
-  { id: 4, nombre: "Caja Aguila light 269ml + servicio cava y hielo", precio: 47900, imagen: "assets/img/cava-lig.png" },
+ // { id: 4, nombre: "Caja Aguila light 269ml + servicio cava y hielo", precio: 47900, imagen: "assets/img/cava-lig.png" },
   
  // { id: 5, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 15800, imagen: "assets/img/aguila-p.jpg" },
  // { id: 6, nombre: "Caja Aguila Original 269ml + servicio cava y hielo", precio: 62000, imagen: "assets/img/cava-original.png" },
