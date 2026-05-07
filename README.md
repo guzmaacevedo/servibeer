@@ -10,7 +10,7 @@ La plataforma permite visualizar productos, promociones y generar pedidos automa
 
 ### Catálogo de productos
 
-<img width="739" alt="Pantalla catálogo 1" src="https://github.com/user-attachments/assets/879bd946-2512-44aa-b3af-48adb62d80e6" />
+<img width="500" alt="Pantalla catálogo 1" src="https://github.com/user-attachments/assets/879bd946-2512-44aa-b3af-48adb62d80e6" />
 
 <img width="739" alt="Pantalla cátalogo 2" src="https://github.com/user-attachments/assets/64905771-f2f0-4f70-891b-bca647f16529" />
 
