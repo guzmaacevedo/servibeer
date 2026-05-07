@@ -1,4 +1,26 @@
-Estilo de página web local que mediante un link ayuda a satisfacer 
-La necesidad de hacer un pedido y seleccionar método de pago
-A falta y en construcción de implementaciones como 
-Actualización de stock y secciones divididas para diferentes licores y visibilidad en teléfono como en pc 
+# ServiBeer
+
+Aplicación web enfocada en la visualización y gestión de productos de bebidas.
+
+## Características
+- Catálogo de productos
+- Interfaz visual interactiva
+- Gestión de promociones
+- Diseño responsivo
+- Uso de imágenes dinámicas
+
+## Tecnologías usadas
+- HTML
+- CSS
+- JavaScript
+
+## Estructura
+- `assets/` → imágenes y recursos
+- `js/` → lógica de la aplicación
+- `static/css/` → estilos
+
+## Cómo ejecutar
+Abrir `index.html` en el navegador.
+
+## Autor
+Jose Guzman
