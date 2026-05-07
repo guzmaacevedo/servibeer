@@ -16,7 +16,7 @@ La plataforma permite visualizar productos, promociones y generar pedidos automa
 
 ### Pedido generado
 
-<img width="300" alt="Pedido generado" src="https://github.com/user-attachments/assets/40b00872-2535-4940-b226-8ae4b498c09f" />
+<img width="320" alt="Pedido generado" src="https://github.com/user-attachments/assets/40b00872-2535-4940-b226-8ae4b498c09f" />
 
 <img width="350" alt="Pedido generado" src="https://github.com/user-attachments/assets/f7c3e0cb-9913-44bf-8b02-e88e8692b87e" />
 
