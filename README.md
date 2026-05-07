@@ -10,13 +10,15 @@ La plataforma permite visualizar productos, promociones y generar pedidos automa
 
 ### Catálogo de productos
 
-<img width="350" alt="Pantalla cátalogo 1" src="https://github.com/user-attachments/assets/b845d57a-2894-4569-bc37-bddb8fc05b01" />
+<img width="350" alt="Pantalla cátalogo 1" src="https://github.com/user-attachments/assets/5bed1fc7-1d82-4782-a2d3-a98991a1b2ec" />
 
-<img width="350" alt="Pantalla cátalogo 2" src="https://github.com/user-attachments/assets/edf709dd-8d65-41f0-86f7-9d0b5efb0f2a" />
+<img width="350" alt="Pantalla cátalogo 2" src="https://github.com/user-attachments/assets/f4319779-49f8-4ee8-8b7e-1db12447864c" />
 
 ### Pedido generado
 
-<img width="350" alt="Pedido generado" src="https://github.com/user-attachments/assets/628d3364-b2bd-4ca3-8e68-863d2889287a" />
+<img width="300" alt="Pedido generado" src="https://github.com/user-attachments/assets/40b00872-2535-4940-b226-8ae4b498c09f" />
+
+<img width="350" alt="Pedido generado" src="https://github.com/user-attachments/assets/f7c3e0cb-9913-44bf-8b02-e88e8692b87e" />
 
 ---
 
