@@ -42,4 +42,4 @@ Users select products from the interface, and the system automatically generates
 Open `index.html` in any web browser.
 
 ## Author
-Jose Guzman
+Jose Guzman (guzmaacevedo@gmail.com)
