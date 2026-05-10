@@ -16,10 +16,12 @@ const productos = [
   { id: 6, nombre: "Caja Aguila Original 269ml + servicio cava y hielo", precio: 61700, imagen: "assets/img/cava-original.png" },
   
   { id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22100, imagen: "assets/img/coronita-p.jpg" },
- // { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo", precio: 86700, imagen: "assets/img/cava-cor.png" },
+  { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo", precio: 86700, imagen: "assets/img/cava-cor.png" },
    
   { id: 11, nombre: "Six pack- Costeña Bacana 269ml + hielo", precio: 13900, imagen: "assets/img/costena.png" }, 
   { id: 12, nombre: "Caja Costeña Bacana 269ml + servicio cava y hielo", precio: 54200, imagen: "assets/img/cava-bacana.png" },
+
+ // { id: 13, nombre: "Bolsa de Hielo ServiBeer- 3kg", precio: 6000, imagen: "assets/img/hielo.jpg" },
 
   //{ id: 13, nombre: "Caja Costeñita + servicio cava y hielo", precio: 82900, imagen: "assets/img/cava-cos.png" }
   
