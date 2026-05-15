@@ -15,7 +15,7 @@ const productos = [
   { id: 5, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 15800, imagen: "assets/img/aguila-p.jpg" },
   { id: 6, nombre: "Caja Aguila Original 269ml + servicio cava y hielo", precio: 61700, imagen: "assets/img/cava-original.png" },
   
-  { id: 7, nombre: "Six pack- Coronita 210ml + hielo. STOCK: 1", precio: 22100, imagen: "assets/img/coronita-p.jpg" },
+  { id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22100, imagen: "assets/img/coronita-p.jpg" },
   { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo", precio: 86700, imagen: "assets/img/cava-cor.png" },
    
   { id: 11, nombre: "Six pack- Costeña Bacana 269ml + hielo", precio: 13900, imagen: "assets/img/costena.png" }, 
