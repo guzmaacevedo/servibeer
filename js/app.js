@@ -6,8 +6,8 @@ const productos = [
  // { id: 9, nombre: "Six pack- Budweiser lata + hielo", precio: 16400, imagen: "assets/img/bud-p.png" },
  // {id: 10, nombre: "Caja Budweiser lata + servicio cava y hielo", precio: 64200, imagen: "assets/img/cava-bud.png" },
   
- // { id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 12000, imagen: "assets/img/andina_p.jpg" },
- // { id: 2, nombre: "Caja Andina light 269ml + servicio cava y hielo", precio: 46700, imagen: "assets/img/cava-and.png" },
+  { id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 12000, imagen: "assets/img/andina_p.jpg" },
+  { id: 2, nombre: "Caja Andina light 269ml + servicio cava y hielo", precio: 46700, imagen: "assets/img/cava-and.png" },
   
   { id: 3, nombre: "Six pack- Aguila light 269ml + hielo. AGOTADO", precio: 12400, imagen: "assets/img/light-p.jpg" },
   { id: 4, nombre: "Caja Aguila light 269ml + servicio cava y hielo. AGOTAFO", precio: 47900, imagen: "assets/img/cava-lig.png" },
@@ -15,10 +15,10 @@ const productos = [
   { id: 5, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 15800, imagen: "assets/img/aguila-p.jpg" },
   { id: 6, nombre: "Caja Aguila Original 269ml + servicio cava y hielo. AGOTADO", precio: 61700, imagen: "assets/img/cava-original.png" },
   
- // { id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22000, imagen: "assets/img/coronita-p.jpg" },
-  { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo. AGOTADO", precio: 86700, imagen: "assets/img/cava-cor.png" },
+  { id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22000, imagen: "assets/img/coronita-p.jpg" },
+ // { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo. AGOTADO", precio: 86700, imagen: "assets/img/cava-cor.png" },
    
- // { id: 11, nombre: "Six pack- Costeña Bacana 269ml + hielo", precio: 13900, imagen: "assets/img/costena.png" }, 
+  { id: 11, nombre: "Six pack- Costeña Bacana 269ml + hielo", precio: 13900, imagen: "assets/img/costena.png" }, 
  // { id: 12, nombre: "Caja Costeña Bacana 269ml + servicio cava y hielo", precio: 54200, imagen: "assets/img/cava-bacana.png" },
 
   //{ id: 13, nombre: "Bolsa de Hielo ServiBeer- 3kg", precio: 6000, imagen: "assets/img/hielo.jpeg" },
