@@ -9,17 +9,17 @@ const productos = [
  // { id: 1, nombre: "Six pack- Andina light 269ml + hielo", precio: 12000, imagen: "assets/img/andina_p.jpg" },
  // { id: 2, nombre: "Caja Andina light 269ml + servicio cava y hielo", precio: 46700, imagen: "assets/img/cava-and.png" },
   
- // { id: 3, nombre: "Six pack- Aguila light 269ml + hielo. AGOTADO", precio: 12400, imagen: "assets/img/light-p.jpg" },
- // { id: 4, nombre: "Caja Aguila light 269ml + servicio cava y hielo. AGOTAFO", precio: 47900, imagen: "assets/img/cava-lig.png" },
+  { id: 3, nombre: "Six pack- Aguila light 269ml + hielo. AGOTADO", precio: 12400, imagen: "assets/img/light-p.jpg" },
+  { id: 4, nombre: "Caja Aguila light 269ml + servicio cava y hielo. AGOTAFO", precio: 47900, imagen: "assets/img/cava-lig.png" },
   
-  { id: 5, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 15800, imagen: "assets/img/aguila-p.jpg" },
+ // { id: 5, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 15800, imagen: "assets/img/aguila-p.jpg" },
  // { id: 6, nombre: "Caja Aguila Original 269ml + servicio cava y hielo. AGOTADO", precio: 61700, imagen: "assets/img/cava-original.png" },
   
- // { id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22000, imagen: "assets/img/coronita-p.jpg" },
- // { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo. AGOTADO", precio: 86700, imagen: "assets/img/cava-cor.png" },
+  { id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22700, imagen: "assets/img/coronita-p.jpg" },
+  { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo", precio: 89200, imagen: "assets/img/cava-cor.png" },
    
- // { id: 11, nombre: "Six pack- Costeña Bacana 269ml + hielo", precio: 13900, imagen: "assets/img/costena.png" }, 
- // { id: 12, nombre: "Caja Costeña Bacana 269ml + servicio cava y hielo", precio: 54200, imagen: "assets/img/cava-bacana.png" },
+  { id: 11, nombre: "Six pack- Costeña Bacana 269ml + hielo", precio: 13500, imagen: "assets/img/costena.png" }, 
+  { id: 12, nombre: "Caja Costeña Bacana 269ml + servicio cava y hielo", precio: 52000, imagen: "assets/img/cava-bacana.png" },
 
   //{ id: 13, nombre: "Bolsa de Hielo ServiBeer- 3kg", precio: 6000, imagen: "assets/img/hielo.jpeg" },
 
@@ -27,7 +27,7 @@ const productos = [
   
   //{ id: 13, nombre: "Whisky Buchanans Deluxe 12años + hielo + servicio", precio: 175000, imagen: "assets/img/buchana.png" },  
   
-  //{ id: 14, nombre: "Six pack- Stella Artois 330ml + hielo", precio: 27799, imagen: "assets/img/stella-p.jpeg" },
+  { id: 14, nombre: "Six pack- Stella Artois 330ml + hielo", precio: 23000, imagen: "assets/img/stella-p.jpeg" },
   //{ id: 16, nombre: "Caja Stella Artois 330ml + cava y hielo", precio: 108750, imagen: "assets/img/cava-ste.png" },
   //{ id: 17, nombre: "Six pack- Heineken 250ml + hielo", precio: 21550, imagen: "assets/img/heineken.jpeg" },
   //{ id: 18, nombre: "Caja Heineken 250ml + cava y hielo", precio: 83750, imagen: "assets/img/cava-hei.png" },
