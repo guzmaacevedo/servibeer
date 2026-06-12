@@ -19,7 +19,7 @@ const productos = [
   { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo", precio: 89200, imagen: "assets/img/cava-cor.png" },
    
   { id: 11, nombre: "Six pack- Costeña Bacana 269ml + hielo", precio: 13500, imagen: "assets/img/costena.png" }, 
-  { id: 12, nombre: "Caja Costeña Bacana 269ml + servicio cava y hielo", precio: 52000, imagen: "assets/img/cava-bacana.png" },
+ // { id: 12, nombre: "Caja Costeña Bacana 269ml + servicio cava y hielo", precio: 52000, imagen: "assets/img/cava-bacana.png" },
 
   //{ id: 13, nombre: "Bolsa de Hielo ServiBeer- 3kg", precio: 6000, imagen: "assets/img/hielo.jpeg" },
 
