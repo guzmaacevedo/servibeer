@@ -21,8 +21,8 @@ const productos = [
   { id: 9, nombre: "Six pack- Costeña Bacana 269ml + hielo", precio: 13500, imagen: "assets/img/costena.png" }, 
   { id: 10, nombre: "Caja Costeña Bacana 269ml + servicio cava y hielo", precio: 52000, imagen: "assets/img/cava-bacana.png" },
 
-  { id: 11, nombre: "Six pack- Michelob 330ml + hielo", precio: 16500, imagen: "assets/img/michelob-p.png" }, 
-  { id: 12, nombre: "Caja Michelob 330ml + servicio cava y hielo", precio: 64500, imagen: "assets/img/cava-michelob.png" },
+  { id: 11, nombre: "Six pack- Michelob 330ml + hielo", precio: 16500, imagen: "assets/img/michelob-p.jpg" }, 
+  { id: 12, nombre: "Caja Michelob 330ml + servicio cava y hielo", precio: 64500, imagen: "assets/img/cava-michelob.jpg" },
 
   //{ id: 0, nombre: "Bolsa de Hielo ServiBeer- 3kg", precio: 6000, imagen: "assets/img/hielo.jpeg" },
 
