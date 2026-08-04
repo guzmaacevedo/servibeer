@@ -18,7 +18,7 @@ const productos = [
   { id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22500, imagen: "assets/img/coronita-p.jpg" },
   { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo", precio: 86700, imagen: "assets/img/cava-cor.png" },
    
-  { id: 9, nombre: "Six pack- Costeña Bacana 269ml + hielo", precio: 13500, imagen: "assets/img/costena.png" }, 
+ // { id: 9, nombre: "Six pack- Costeña Bacana 269ml + hielo", precio: 13500, imagen: "assets/img/costena.png" }, 
  // { id: 10, nombre: "Caja Costeña Bacana 269ml + servicio cava y hielo", precio: 52000, imagen: "assets/img/cava-bacana.png" },
 
  // { id: 11, nombre: "Six pack- Michelob 330ml + hielo", precio: 16500, imagen: "assets/img/michelob-p.jpg" }, 
