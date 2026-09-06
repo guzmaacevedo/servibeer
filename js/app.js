@@ -13,7 +13,7 @@ const productos = [
   { id: 4, nombre: "Caja Aguila light 269ml + servicio cava y hielo", precio: 48000, imagen: "assets/img/cava-lig.png" },
   
  // { id: 5, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 16400, imagen: "assets/img/aguila-p.jpg" },
-  { id: 6, nombre: "Caja Aguila Original 269ml + servicio cava y hielo", precio: 64200, imagen: "assets/img/cava-original.png" },
+ // { id: 6, nombre: "Caja Aguila Original 269ml + servicio cava y hielo", precio: 64200, imagen: "assets/img/cava-original.png" },
   
  // { id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22500, imagen: "assets/img/coronita-p.jpg" },
  // { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo", precio: 86700, imagen: "assets/img/cava-cor.png" },
