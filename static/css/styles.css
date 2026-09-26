@@ -184,8 +184,45 @@ input {
   }
 }
 
+/* ===================== */
+/* ESTADO DE LA TIENDA */
+/* ===================== */
 
+.estado-tienda {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 16px 20px;
+  border-radius: 10px;
+  text-align: center;
+}
 
+.estado-tienda strong {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 6px;
+}
 
+.estado-tienda p {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.4;
+}
 
+/* TIENDA ABIERTA */
+.estado-tienda.tienda-abierta {
+  background-color: #e8f5e9;
+  border: 1px solid #2e7d32;
+  color: #1b5e20;
+}
 
+/* TIENDA CERRADA */
+.estado-tienda.tienda-cerrada {
+  background-color: #ffebee;
+  border: 1px solid #c62828;
+  color: #b71c1c;
+}
+
+/* SEPARACIÓN DEL TOTAL DEL PEDIDO */
+#total {
+  margin-top: 20px;
+}
