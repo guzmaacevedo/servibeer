@@ -1,3 +1,3 @@
 const CONFIG_SERVIBEER = {
-  tiendaAbierta: false
+  tiendaAbierta: true 
 };
