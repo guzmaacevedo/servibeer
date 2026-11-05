@@ -12,11 +12,11 @@ const productos = [
   { id: 3, nombre: "Six pack- Aguila light 269ml + hielo", precio: 12500, imagen: "assets/img/light-p.jpg" },
   { id: 4, nombre: "Caja Aguila light 269ml + servicio cava y hielo", precio: 48000, imagen: "assets/img/cava-lig.png" },
 
- // { id: 5, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 16400, imagen: "assets/img/aguila-p.jpg" },
- // { id: 6, nombre: "Caja Aguila Original 269ml + servicio cava y hielo", precio: 64200, imagen: "assets/img/cava-original.png" },
+  // { id: 5, nombre: "Six pack- Aguila Original 269ml + hielo", precio: 16400, imagen: "assets/img/aguila-p.jpg" },
+  // { id: 6, nombre: "Caja Aguila Original 269ml + servicio cava y hielo", precio: 64200, imagen: "assets/img/cava-original.png" },
 
- // { id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22700, imagen: "assets/img/coronita-p.jpg" },
- // { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo", precio: 89200, imagen: "assets/img/cava-cor.png" },
+  // { id: 7, nombre: "Six pack- Coronita 210ml + hielo", precio: 22700, imagen: "assets/img/coronita-p.jpg" },
+  // { id: 8, nombre: "Caja Coronita 210ml + servicio cava y hielo", precio: 89200, imagen: "assets/img/cava-cor.png" },
 
   //{ id: 9, nombre: "Six pack- Costeña Bacana 269ml + hielo", precio: 13500, imagen: "assets/img/costena.png" },
   //{ id: 10, nombre: "Caja Costeña Bacana 269ml + servicio cava y hielo", precio: 52000, imagen: "assets/img/cava-bacana.png" },
